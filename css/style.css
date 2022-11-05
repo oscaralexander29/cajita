@@ -1,0 +1,30 @@
+.cajita{
+    width: 300px;
+    border: 3px solid green;
+    margin: auto;
+    background-color: rgb(14, 188, 241);
+}
+.cajita img{
+    width: 100%;
+    border-radius:50%;
+    border:3px solid black;
+}
+.cajita h2{
+    text-align: center;
+    text-decoration: underline dashed red;
+}
+p{
+padding: 10px;
+    background-color: orchid;
+border: 5px solid black;
+}
+form input{
+    text-align: center;
+    width: 60px;
+    display: block;
+    margin: 5px auto;
+}
+form button{
+    width: 100px;
+    margin: auto;
+}

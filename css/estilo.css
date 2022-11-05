@@ -1,0 +1,43 @@
+/* RELLENO */
+p{
+    width: 80%;
+  background-color: aquamarine;
+    /*padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 50px; */
+
+    /* ACCESO DIRECTO O SHORCUT */
+    /* Arriba derecha abajo izquierda */
+    padding: 50px 5px 20px 10px;
+
+    /* BORDER O BORDE */
+    border-top: 2px double black;
+    border-right: 2px dashed rgb(201, 50, 50);
+    border-bottom: 2px groove rgb(96, 22, 165);
+    border-left: 2px dashed rgb(88, 230, 75);
+
+    /* ACCESO DIRECTO */
+    border-width: 20px 50PX 30PX 10px;
+    border-style: dotted solid dashed dashed;
+
+    margin:100px 20px;
+}
+main{
+    width: 90%;
+    background-color: bisque;
+    margin: 0 auto;
+    padding: 1px;
+}
+a{
+    width: 100%px;
+    color: white;
+    background-color: maroon;
+    display: block;
+    padding: 20px;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 20px;
+}
